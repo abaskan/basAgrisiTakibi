@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Bas Agrisi Takibi</string>
+
+    <string-array name="tetikleyiciler">
+        <item>Alkol</item>
+        <item>Çikolata</item>
+        <item>Sigara</item>
+        <item>Stres</item>
+        <item>Sıcaklık</item>
+        <item>Öğün Atlama</item>
+        <item>Az Uyku</item>
+        <item>Çok Uyku</item>
+        <item>Parlak/Yanıp-Sönen Işıklar</item>
+        <item>Televizyon-Telefon</item>
+        <item>Keskin Koku</item>
+        <item>Fiziksel Egzersiz</item>
+        <item>Hava Şartları</item>
+        <item>Adet Dönemi</item>
+        <item>Yiyecekler</item>
+    </string-array>
+
+    <string-array name="ozellikler">
+        <item>Ağrı Tek Taraflı</item>
+        <item>Ağri Zonklayıcı</item>
+        <item>Ağrı Şiddetli</item>
+        <item>Fiziksel Aktivite Ağrıyı Arttırır</item>
+        <item>Ağrıya İştahsızlık Eşlik Eder</item>
+        <item>Ağrıya Bulantı / Kusma Eşlik Eder</item>
+        <item>Işık Şiddeti Ağrıyı Arttırır</item>
+        <item>Ses Şiddeti Ağrıyı Arttırır</item>
+    </string-array>
+
+    <string-array name="ilaclar">
+        <item>Dideral / Beloc / Tensinor</item>
+        <item>Topamax / Xamate</item>
+        <item>Sibelium</item>
+        <item>Depakin / Convulex / Valposim</item>
+        <item>Laroxyl</item>
+        <item>Sandomigran</item>
+        <item>Relpax</item>
+        <item>Maxalt</item>
+        <item>Zomig</item>
+        <item>İmigran</item>
+        <item>Avmigran</item>
+        <item>Aspirin</item>
+        <item>Vermidon/Parol/ Termalgine/Minoset</item>
+        <item>Majezik</item>
+        <item>Apranax</item>
+        <item>Sirdalud</item>
+        <item>Antidepresanlar</item>
+
+    </string-array>
+
+</resources>
